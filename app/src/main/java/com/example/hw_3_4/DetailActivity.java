@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity2 extends AppCompatActivity {
+public class DetailActivity extends AppCompatActivity {
     TextView name;
     TextView color;
     TextView breed;
